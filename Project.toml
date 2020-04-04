@@ -1,6 +1,6 @@
 name = "MUMPS_seq_jll"
 uuid = "d7ed1dd3-d0ae-5e8e-bfb4-87a502085b8d"
-version = "5.2.1+0"
+version = "5.2.1+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
