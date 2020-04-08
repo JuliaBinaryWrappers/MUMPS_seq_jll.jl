@@ -1,378 +1,378 @@
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "a22a2d22c35f5c2d5b024ba198075a9a57ecab27"
+git-tree-sha1 = "0eaf7d3b30ca279b8c8cb8d86808971e1f877690"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "f4e5c55900a7c49948632a0c8400dc7d3b102312d826fc170beb229d5c277e30"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "ef11f0cab1dc03ed1dfaeeee1e58d454067bc45902cfd23d317d3caf74b7ea57"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "powerpc64le"
-git-tree-sha1 = "2e0313342b342a03e6d731a1299072f3217680db"
+git-tree-sha1 = "cc0b42fc553016f1ea52636da38ad22dc1010dc7"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "e160585f290fdbca5d582609aef0e16bec20e0f532104498d46832c9f89574c1"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "b1ce89eebe255974457c149e0496264aff895e2219dd163d0bf590c0b8013657"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "powerpc64le"
-git-tree-sha1 = "826b21767224caddb39d3724c44e3abe7c7c9ec7"
+git-tree-sha1 = "fc5acb49ac5c914e89499d718f2dd1dfb35c23d2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "bc2d610101d739441a06bef046c8f6f2b15f5f15daed35c2f61313e498e52119"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "c9d2d88945f169e0045a099e7635f091b1b4ebc6e8e11088b9adcf1b2f835723"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "powerpc64le"
-git-tree-sha1 = "8f16c0130f8bb69929bd0d791150f0215673a66e"
+git-tree-sha1 = "8927fc3a14894e5dc96bd4051b66bcd3868ebf34"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "84d58bf14193548f86cc2bea538274f9e2d359c9fba6aa634d7269fcf63b08f1"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "83b4489c983700f059f41a954dc5a6d32c5cea8287ce54d4137dca8e1030d1aa"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "armv7l"
-git-tree-sha1 = "be8fea7263006ac46badd26eb29e768b934582e8"
+git-tree-sha1 = "26a708bf45ce480dbc743c6237bf59f04c36c65d"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "2a44d709fb32baa664b88c0809072a4e60b4008ec1884b56305ff81299d15563"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "a7e45363572d991b048cc710cf9d4baab36837e79bde31402b55279a6a61c669"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "0fe165dbc7e0f38e3e3586e869998c503f72c643"
+git-tree-sha1 = "46f956b368b1bfdfbf13f76d973bb0e38a2df323"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "1ff5d0a615e74c1a81c163965311b66e2ce18c758dd2058ddcff360cde202bdd"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "cddd0fe9c2f9c0da1409d5169c18f4c22a4227a61dc674ecdc88b031d6a47024"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "i686"
-git-tree-sha1 = "d3a0731d2b78746193e409294c6556dba6345ed8"
+git-tree-sha1 = "c83955b0980a80fd15b14f681b390f75a48bb04a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "5a3040bd5067f6e3493b8a82d0bb0a84837db4a80efb17b33f7ac7659f2dfd4e"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "bb2ee2cf2401a67e233978482272f68eeb934a6ace591816576bf8e0ca9bed0c"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.i686-linux-musl-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "2c32e11b790389406d8ce998dc7a719a73e2e483"
+git-tree-sha1 = "dae28f048553c743bbeefae7269c31eec49e6afe"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[MUMPS_seq.download]]
-    sha256 = "993a67b8c5f13b325ec18dfcb871f04efe8a013cc6e1a0f601ed84344d1b8b85"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+    sha256 = "2b4e263aebe63b1a0abaece449ef3a4514b99e1665356cc13153482d40731ebb"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "armv7l"
-git-tree-sha1 = "e50f97d40e9a1c4226d5b827d9b350f563673450"
+git-tree-sha1 = "f94eb7f2da9de0a86374f60ca8882f0bf98330a4"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "fcb35b1cef9e99173ea7d52664fc3bbee17bd561d8115f3fc312079e62efef73"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "f851b4dc1ff2e79c72a3e52986f129d09ac2c1db5524b2dbca19db9adea6d298"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "0eef5f3bda75f59898a7dce52c4e933b60c8d7f8"
+git-tree-sha1 = "2572ba1c08c1e0faf83839c8ed0bfb7b572993df"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "9cc134b3bf728f1b4c2936c7e5146741dd5fd42f7c684a17fbb66ad4272471e2"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "0fdfe21ae60a7de9a2db872bab46cc1006d7124cf9d2bede47ff033db421186e"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-linux-musl-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "aarch64"
-git-tree-sha1 = "0484fd295e38d79907d8cf26db4a1b29b38eb354"
+git-tree-sha1 = "3851d6c031ea02801fa20a0f287fd0d96217389e"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "0631a8c9ad4191a858c7d7eab3a6b0335dd700edf2ef9cca97780937a682c81a"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "21e8c3a71082e2750b81dfa3363a36405f91c9ff646c696d74b927908e07e4d3"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "cf9077258477ec231dac637301664c9387b7c286"
+git-tree-sha1 = "d125aa81e7daf317db8bcb3498f7659a99d3f27e"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[MUMPS_seq.download]]
-    sha256 = "02e8f41be90840bb9774079f78ea8e9cd19909808bba29a631b9b32ba9546aec"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "af87cc4dd2c653b52d72a86384fc51108f6cf506daddbf7b5fa9e815ab5d409c"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "armv7l"
-git-tree-sha1 = "d37685afeb0debb29feb1cade5835148c04bb39f"
+git-tree-sha1 = "1ae5a800f8b7a02adeb0198bdb8571157b93e828"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "da93c7b4f8e179ab2f847f117be46e92ea819f79ebdd4d7b71c4221df11ba544"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "f34f2e748a9cfd419a741519352103d57f95eca2d37d1b9689ec43a8baa833bc"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "i686"
-git-tree-sha1 = "a0e6689401ac31cf73ab3c22048075ebaeb182b6"
+git-tree-sha1 = "7b294725be54d1eb89865dc9756b4fea9aad9e22"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "9c019d312b561708b45bfbf81480d45d98c67305c09e1bd5bfcb30017e1534c7"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "e79de503dcdaf40f7c6ad65de38a9fc94324380cd204d36da63a247e904838e3"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.i686-linux-musl-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "aarch64"
-git-tree-sha1 = "45175abfa1d3ad80c61d0328cc06ad1abb347e4a"
+git-tree-sha1 = "1885e99c6d65be3796f05d685cc73f27023a14f9"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "b9bffd375b9d7aa0366995bd76efafeae96a79d193fd54cf43b3c0a4bc966e39"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "509d4e43f44300e19d4d3eb759f21926a83ec185012be2f22f515bf51418d175"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.aarch64-linux-musl-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "10bd67aedb195e5df41f697594f83a2484f279f4"
+git-tree-sha1 = "85636c56ff20059d466f2c530b801398692be07f"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[MUMPS_seq.download]]
-    sha256 = "b2e6bb855cc39f0a4d2b8113f28fdcb2fbf09a605b06f4ccea830fbc3c4acf2e"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "e94a8a2efc1c4a8b904bee11627f691c5a3663eff94a6c769e639079091d361b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "aarch64"
-git-tree-sha1 = "d2b45a4ff0142187472d1d7a43dfeb7667f31097"
+git-tree-sha1 = "1e306eaec1f1c31cfe72d5f12c8d3e84eb1ec3d8"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "353d7a3bdfa1d385af3e9f3864f866cc731519c7df398f44f0c465b9fbc6670b"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "23f28bf4f558187e7f4d546843e51af4ff1c0432e4a9373a5cabda35358a6f47"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.aarch64-linux-musl-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "armv7l"
-git-tree-sha1 = "1c04e77578b81ae4d0a62f53b946080e3d0ba563"
+git-tree-sha1 = "ba3743d5cf5e2e47cda78e71963f03feba9ead60"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "d750b54d7c581178645906f9bd55b4c1706414e896832801e2a333d386286a79"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "db9189233720bb1c4c3de29ee5c6b2f4a742c55f842340a71da47e6edf9bcdc7"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "i686"
-git-tree-sha1 = "79c23633829b41acbf45df23c0e0b3b5046fe1ca"
+git-tree-sha1 = "ace76a0f07db9e4ee3f8e6fcc5fd59a964216d8a"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "36aee300f39d19e88b64be049c45dcab2dac9965cd9ccc23f80753f5e6bc1a6d"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "debb72c43efd3efce5976fb30ba57e2dad8a5ae6261c2f37e5e54e1cd58e2382"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.i686-linux-gnu-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "609e7867c6823b84dcef5f30f7b42fd409579982"
+git-tree-sha1 = "e8d6ddd2e1ad4a0bb62f0e03ec428a0ca5b0fa2e"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[MUMPS_seq.download]]
-    sha256 = "d5d17c06cddfa715d4b2dd3132b7b76fbb771602bc526e775eb6956c9529942d"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+    sha256 = "7c95682c64333285cf1d5fa2925bd0b21c917f02f307116ac3985e680a28c57d"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "i686"
-git-tree-sha1 = "5635250fc14d79c77ae7e2049c8601c4882f16e7"
+git-tree-sha1 = "c02d8483ae4a5f2ffc2f22b29d34e73d8a387fbd"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[MUMPS_seq.download]]
-    sha256 = "03452a3162d19181d1e9d79cce7cfe4a0cce6b526cd7c4a254bb3fe1d2ac91cf"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "4a8aced6f8575bbcf452a5ad437206c9b0015f664771fd56bf5b91f532fb1a24"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.i686-w64-mingw32-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "530e2ec8ed33481644c264279d09bbdb7ee34f0f"
+git-tree-sha1 = "976813f60fad750dff08241c804a2db2a16bcf4d"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[MUMPS_seq.download]]
-    sha256 = "c186f59fafc7fbf28a47fce40d88994aec7c5a90832dbb57f4de4f07c6b163c6"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-apple-darwin14-libgfortran4.tar.gz"
+    sha256 = "3e2c348c560fcab95c5900319f13ff251eefb58a5e1d2bf434409fea4aadf5b4"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-apple-darwin14-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "df901ddf22c95810634c964f80a527db22e90bcd"
+git-tree-sha1 = "6726f4c46ab9dc9da82f1d07862fcf8b12421986"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[MUMPS_seq.download]]
-    sha256 = "b558e207b9ff08fb4520d9bf509d091b59e37682d7ee881234402f0f1a6a7a0d"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "554abab4e26cddb33ce04de2171c04c04f48b866910ed87be2bea4a4c8dc5918"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "798d1ddee3eb62377a3ec690742cb6ac763c1c8d"
+git-tree-sha1 = "b314997623d3fd7cd0719ab5b19bae08008f6d76"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "e319ca0e5fb85d4befb5129db2d0501e409cec391bc661014065ba11c1025750"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "c8c54fea6c8d995a6c2b1b81f497d6197d57c60012ecda7d8a43c48ec7160d67"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-linux-musl-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "i686"
-git-tree-sha1 = "865279b7dcff47a469a0f02eec4ba3f73682bc46"
+git-tree-sha1 = "73e95bb21ab21e5425d08af545d61c7a06b31f43"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "705c4f21066731c6db10cec26242e7581c173e6d30bcef6bb4de7406380d3729"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "9ed2d5cbefc4e181f9a37be079afabbff37da82d8e336b78f02aeaa6edf13975"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.i686-linux-gnu-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "aarch64"
-git-tree-sha1 = "8e08e384fbfb1d6a46dbd6a6c3979dc4cceb7178"
+git-tree-sha1 = "fdae7656e3fbabec470520f578d98d56457af8b2"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "b33908ee7eddee4b2c05f1582dfab09829dd7e22857d8fd99f3d23eaa8636ef7"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "30c246d97a5923b040c01d6ec18f105e6c348ec68ebb308dcd34e8fae9af4598"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.aarch64-linux-musl-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "a3d1dcebeda43774960914e33fb83e46bbbfbd47"
+git-tree-sha1 = "4cf44f9eeed122b08b0754f68b7f4845faac79b3"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[MUMPS_seq.download]]
-    sha256 = "aad43f240f77336d3e1271f484eb2db687e1812e60987338cb9f048ad7b38c9d"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-apple-darwin14-libgfortran5.tar.gz"
+    sha256 = "b5d0cfd50b9da8fa537b4d314fbed0ea2be799e463979ba692fe05d7a31c3686"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-apple-darwin14-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "fb949b507a629ef246d3e1599d43ee8e8a72222f"
+git-tree-sha1 = "de0b84c775e7bbb45fc300bf417202a47db709e1"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[MUMPS_seq.download]]
-    sha256 = "5de5ed864c464107edaa2b197a38c0b273db16dc3574437b3ff3d397c04f8a02"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+    sha256 = "5524142eb24789c5212d44e9369bc38e7e2427fbe42b0d7d826121d529983c8b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "aarch64"
-git-tree-sha1 = "ab86d48dc5e782d98969849cf6bbc0d8d84f3299"
+git-tree-sha1 = "fd0bce80cc82bedea124479b36c0cd24d485803e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "27cefc8cc7ff77dd49a7d8ce352fed7d9b368177398f8caf7c5317a4c5e89da5"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "c87adc2d7ea167e931385c0638fc4cb7ff94a6f53690622a0fd1ed82f86e11fd"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "i686"
-git-tree-sha1 = "9659ba31fa85dd5b0c1b2ee309a53824ec53dacd"
+git-tree-sha1 = "e045131f20ba1d0efd536f805dc535ec58ade00d"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "c1bffee2f09ee677f7dd1083ed16f5ba79258edd0e66b16b0086f43ec941f1af"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "2240454e3f309196732b347bb166fdc52550b9f0c567e68876f88a0df1e9db6e"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.i686-linux-gnu-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "i686"
-git-tree-sha1 = "0d4974825600ba65fa4c1f9938f898937c8c30ea"
+git-tree-sha1 = "f1b79741d6fedd9731b5a86edc2b867311fe51c3"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[MUMPS_seq.download]]
-    sha256 = "a7b0a6ac2209f98b393b6c1bd9079992f2c2ff4b5d1fe8b5a18ccf1c6a36d3d9"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "b4c50734f683c709839a44232c25be721151a4d6a6c9552bba696875d9cda225"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.i686-w64-mingw32-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "aarch64"
-git-tree-sha1 = "81d482e6fc9d708cb2ba2986a7ed1b2a1eb79767"
+git-tree-sha1 = "c875e62beadc2bf503470b5ed2257033bbc3561d"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "e29046da7a6de6712fd858bb51b4e83710f5bf6dc8381e4b30e32e696634ec28"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "f5b60be4827dd899c870c6f9ad9a3e3efe7408ac31aa59694a393e597c05e7a6"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "i686"
-git-tree-sha1 = "0751174b62523d507bd2fc3127985345edf2afba"
+git-tree-sha1 = "ad6a62b3499cacdf1e74d0d00d384116273bf535"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "091a7b8a66c971792c97aa883258bd4b5d73cb271f4cf7ead72d699732c5f37e"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "183159546b60021168d7be95d2e031928553ff4e8342a282d2044a0144e05078"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.i686-linux-musl-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "a5264e573ec41e0d9edf473fcd17e46593dfac7a"
+git-tree-sha1 = "02292802072ab48fd56e123a81051ce9538c08fe"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "2362e52a92d268904827247d316fabee7b2876e0bd5350fbb73d79c58fc572cd"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "8f335755356604195f3f5ba2c487a30675a2cfa5f0d862c5a50871d1e4729e4b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "i686"
-git-tree-sha1 = "879fd7c571c1abf8240336350cf53c0900b748f4"
+git-tree-sha1 = "a1e7e1f4dcdd5ae88e152eb7a9b870258d79ba71"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[MUMPS_seq.download]]
-    sha256 = "76463b741986e3cc1053c2a89ec4ac6254e940e4755cc07983eef3155b2d0dce"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "c09a2a9a8db56f7885190864e8dfe60da0f01524090369d6ea26bbf590b650e6"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.i686-w64-mingw32-libgfortran3.tar.gz"
 [[MUMPS_seq]]
 arch = "armv7l"
-git-tree-sha1 = "36e55b85205311458243df7d766559f2454fcb95"
+git-tree-sha1 = "d3f7fe085e091a24ebbe1007ee13c5c8aa11cd29"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "40ecd6e639db5603816ff8121f65312ac2ee2a9ecccf0ef5e26e5aa74c1cf389"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "72888a7169a893054da3907eb7cddf1af3211dd25bd3e7ef1a272ee1caaaeaa6"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "225fa29c1b7d3d62e6360c85368a33c8db62b6bd"
+git-tree-sha1 = "76552f3d459d72b13abded530a3be85a3b0fc5ff"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "4e0e0f82a2dda59171f02ddd60640c89fbabb8c253adfa300d40d3814f8ed1af"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "f994b151b691fde3f52c2f5adedd1bd667df3bc275a782a8724ebba69a5eca03"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-linux-musl-libgfortran4.tar.gz"
 [[MUMPS_seq]]
 arch = "armv7l"
-git-tree-sha1 = "ef5c58c2a1b81d1f538afd972d98dcb9831558e4"
+git-tree-sha1 = "6a9da4bd99a28eb0a795d6a58d516ab64edd8455"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MUMPS_seq.download]]
-    sha256 = "1be13d38dcb71c40be0d93f1bafffd027926e013efa3cc634d839d2fd0eb2cdf"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "20c02cd59d1eac8b7d732472cdd4401e422d95a9ee863686967523754d2bafe5"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[MUMPS_seq]]
 arch = "x86_64"
-git-tree-sha1 = "25900a72044a27daa2e5c71920b90c0cc0ac5c00"
+git-tree-sha1 = "a16a16bc9e083bb2c21ee8ccd0526c3378b7e329"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[MUMPS_seq.download]]
-    sha256 = "d0b640e5de2e3f83e9f60dfd12875537ff570365828ece271d3a2311b8cc8938"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+1/MUMPS_seq.v5.2.1.x86_64-apple-darwin14-libgfortran3.tar.gz"
+    sha256 = "7932027ee827b39aa8575d40c882d1fac6161e682b10ff54c63f4c48e9af66d7"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_seq_jll.jl/releases/download/MUMPS_seq-v5.2.1+2/MUMPS_seq.v5.2.1.x86_64-apple-darwin14-libgfortran3.tar.gz"
