@@ -1,14 +1,10 @@
 name = "MUMPS_seq_jll"
 uuid = "d7ed1dd3-d0ae-5e8e-bfb4-87a502085b8d"
-version = "4.10.0+0"
+version = "4.10.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
-CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
-METIS_jll = "d00139f3-1899-568f-a2f0-47f597d42d70"
-OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
 
 [compat]
 julia = "1.0"
-METIS_jll = "=4.0.3"
