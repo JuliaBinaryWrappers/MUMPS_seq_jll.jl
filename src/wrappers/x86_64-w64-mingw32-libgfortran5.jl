@@ -3,7 +3,7 @@ export libcmumps, libdmumps, libmpiseq, libmumps_common, libpord, libsmumps, lib
 
 using CompilerSupportLibraries_jll
 using METIS_jll
-using libblastrampoline_jll
+using OpenBLAS32_jll
 JLLWrappers.@generate_wrapper_header("MUMPS_seq")
 JLLWrappers.@declare_library_product(libcmumps, "libcmumps.dll")
 JLLWrappers.@declare_library_product(libdmumps, "libdmumps.dll")
@@ -13,7 +13,7 @@ JLLWrappers.@declare_library_product(libpord, "libpord.dll")
 JLLWrappers.@declare_library_product(libsmumps, "libsmumps.dll")
 JLLWrappers.@declare_library_product(libzmumps, "libzmumps.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, libblastrampoline_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, OpenBLAS32_jll)
     JLLWrappers.@init_library_product(
         libcmumps,
         "bin\\libcmumps.dll",
